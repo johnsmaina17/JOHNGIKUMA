@@ -1,2 +1,6 @@
 git notes
-just practicing git 
+just practicing git now
+
+added this line
+
+added this line3444
